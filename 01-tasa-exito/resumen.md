@@ -1,37 +1,9 @@
-# Resumen — Tasa de éxito en proyectos de software
+# Tasa de éxito en proyectos de software
+En la encuesta original de Standish Group en 1994, solo el 16,2% de los proyectos de software se entregaron a tiempo y dentro del presupuesto. Mientras tanto, el 31,1% fueron cancelados antes de su finalización. Los excesos presupuestarios fueron masivos: más de la mitad (52,7%) de los proyectos se extendieron un 189% sobre la estimación de costos original. A las grandes organizaciones les fue peor: solo el 9% de sus proyectos tuvieron éxito, con un 61,5% desafiado y un 29,5% cancelado. Incluso los proyectos completados se entregaron mucho menos de lo previsto: los proyectos en grandes empresas promediaron solo el 42% de sus características originales. En total, en 3.682 proyectos de esa muestra, solo el 12% fueron puntuales y dentro del presupuesto.
 
-> Documento principal de la sección **01**. Aquí se vuelcan las estadísticas y datos relevantes sobre la tasa de éxito en proyectos de software a nivel mundial.
+Para 2012, los datos de Standish mostraron mejores resultados: el 37% de los proyectos tuvieron éxito (a tiempo, dentro del presupuesto, con alcance completo), el 42% se desafió y el 21% fracasó.
 
-## 🎯 Alcance
+Los últimos datos del CHAOS (2020) muestran nuevas dificultades: solo el 31% de los proyectos tuvieron “éxito”. El 50% estaba completamente desafiado y el 19% fracasó. Los proyectos pequeños tuvieron un rendimiento mucho mejor (~ 90% de éxito), mientras que los grandes proyectos tuvieron <10% de éxito. 
 
-- **Qué:** tasa de éxito / fracaso / desafío en proyectos de software.
-- **Quiénes lo miden:** Standish Group (CHAOS Report), McKinsey, PMI, etc.
-- **Período:** datos más recientes disponibles a la fecha.
 
-## 📊 Datos clave (a completar)
-
-> **Acción:** reemplazar este bloque con las estadísticas del informe Standish Group (CHAOS Report) u otras fuentes autoritativas. Incluir:
-> - % de proyectos exitosos
-> - % de proyectos fracasados
-> - % de proyectos desafiados (completados con sobrecosto o retraso)
-> - Tendencia a lo largo de los años
-> - Causas principales de fracaso
-
-### Tabla sugerida
-
-| Año | Fuente | Éxito | Desafiado | Fracaso | Notas |
-|---|---|---|---|---|---|
-| _20XX_ | Standish CHAOS | _?_ | _?_ | _?_ | _?_ |
-| _20XX_ | Standish CHAOS | _?_ | _?_ | _?_ | _?_ |
-
-## 🔑 Hallazgos principales (a completar)
-
-1. _Hallazgo 1_
-2. _Hallazgo 2_
-3. _Hallazgo 3_
-
-## 📎 Ver también
-
-- [Fuentes consultadas](fuentes.md)
-- [Volver al hub de la sección 01](README.md)
-- [Volver al hub principal](../README.md)
+En 2011 Flyvbjerg y Budzier presentaron el análisis "TI Black Swans", que encontró que en 1.471 proyectos de TI, el sobrecosto promedio fue del 27%. Pero el promedio oculta el peligro real: uno de cada seis proyectos era un Cisne Negro (un evento raro y de alto impacto que los promedios y pronósticos convencionales no anticipan), con un sobrecosto del 200% en promedio y un exceso de horario de casi el 70%. El punto de Flyvbjerg y Budzier es que los proyectos de TI no son inusualmente arriesgados en promedio; producen un número desproporcionado de estos valores atípicos extremos, y son los valores atípicos los que rompen los presupuestos y las empresas.

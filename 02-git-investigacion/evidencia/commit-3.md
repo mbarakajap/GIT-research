@@ -1,4 +1,4 @@
-# Commit 3 — Lucas E. Torres Amarilla agrega sus datos
+# Commit 3 — Lucas Torres agrega sus datos
 
 > **Acción del commit:** modificar `hola.txt` agregando los datos del tercer integrante (Lucas).
 
