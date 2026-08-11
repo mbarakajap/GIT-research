@@ -15,9 +15,9 @@ Elaborar un **documento de resumen** con estadísticas y datos relevantes sobre 
 
 | Tarea | Estado |
 |---|---|
-| Investigación bibliográfica | ⏳ Pendiente |
-| Documento de resumen | ⏳ Pendiente |
-| Compilar fuentes | ⏳ Pendiente |
+| Investigación bibliográfica | ✅ Hecho |
+| Documento de resumen | ✅ Hecho |
+| Compilar fuentes | ✅ Hecho |
 
 > **Acción del equipo:** completar el contenido de [`resumen.md`](resumen.md) y [`fuentes.md`](fuentes.md).
 

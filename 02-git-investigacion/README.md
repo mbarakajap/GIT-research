@@ -33,7 +33,7 @@
 | Repositorio en GitHub | ✅ Hecho |
 | 3 commits de `hola.txt` | ✅ Hecho |
 | Anexos con evidencia (links públicos) | ✅ Hecho (en `evidencia/`) |
-| Resumen teórico de GIT | ⏳ Pendiente |
+| Resumen teórico de GIT | ✅ Hecho |
 
 > **Acción del equipo:** completar el contenido de [`resumen-git.md`](resumen-git.md).
 

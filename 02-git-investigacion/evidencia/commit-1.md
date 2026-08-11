@@ -4,7 +4,7 @@
 
 ## 🔗 Enlace público al commit
 
-**https://github.com/mbarakajap/GIT-research/commit/34b1a12a**
+**https://github.com/mbarakajap/GIT-research/commit/34b1a123c98990e900f22ebbafda61c3bc6eeed1**
 
 _(Click directo desde GitHub — no requiere clonar el repo.)_
 
